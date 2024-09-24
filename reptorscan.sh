@@ -2,6 +2,8 @@
 
 # Function to display the help message
 usage() {
+    echo " REPTORSCAN v0.1 "
+    echo " nmap to markdown automator "
     echo "Usage: $0 [OPTIONS] TARGET"
     echo
     echo "Options:"
